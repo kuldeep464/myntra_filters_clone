@@ -5,11 +5,10 @@ This project fetches product data from an **API** and allows users to filter pro
 
 ---
 
-🚀 Live Demo
+## Take a Look:
+<img width="1920" height="3345" alt="screencapture-localhost-5173-2025-08-16-01_31_22" src="https://github.com/user-attachments/assets/97052262-a640-437f-8b9e-a7e3fd07ee07" />
 
-View Project
 
----
 
  📌 Features
 
@@ -35,12 +34,22 @@ View Project
 
 ---
 
+## 🚀 Getting Started
 
-4️⃣ Run the development server
+## 1️⃣ Clone the repository
+git clone https://github.com/your-github-username/myntra-filters-clone.git
+
+## 2️⃣ Navigate to the project folder
+cd myntra-filters-clone
+
+## 3️⃣ Install dependencies
+npm install
+
+## 4️⃣ Run the development server
 
 npm run dev
 
-📜 License
+## 📜 License
 
 This project is for educational purposes only and is not intended for commercial use.
 
